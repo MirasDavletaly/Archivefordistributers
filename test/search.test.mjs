@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { buildIndex, search, searchBrands, similarity, tokenize } from '../src/search.mjs';
+import { buildIndex, search, searchBrands, similarity, tokenize } from '../public/search.js';
 
 const FIXTURE = [
   {

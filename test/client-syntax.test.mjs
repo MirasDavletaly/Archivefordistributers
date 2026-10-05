@@ -22,12 +22,20 @@ for (const file of scripts) {
 
 test('index.html ссылается на существующие файлы', () => {
   const html = readFileSync(join(PUBLIC_DIR, 'index.html'), 'utf8');
-  const refs = [...html.matchAll(/(?:src|href)="\/([^"]+)"/g)].map((m) => m[1]);
+  // Пути относительные («./app.js»), чтобы работать и в подпапке на GitHub Pages.
+  const refs = [...html.matchAll(/(?:src|href)="\.?\/([^"#][^"]*)"/g)].map((m) => m[1]);
   const existing = new Set(readdirSync(PUBLIC_DIR));
+  assert.ok(refs.length >= 2, `в index.html не найдено ссылок на файлы: ${refs.length}`);
   for (const ref of refs) {
     if (ref.startsWith('api/')) continue;
     assert.ok(existing.has(ref), `в index.html указан ${ref}, которого нет в public/`);
   }
+});
+
+test('в разметке нет путей от корня — иначе демо сломается в подпапке', () => {
+  const html = readFileSync(join(PUBLIC_DIR, 'index.html'), 'utf8');
+  const absolute = [...html.matchAll(/(?:src|href)="(\/[^"]*)"/g)].map((m) => m[1]);
+  assert.deepEqual(absolute, [], 'используйте ./файл вместо /файл');
 });
 
 test('каждый ключ data-i18n из разметки есть в словаре', async () => {

@@ -1,6 +1,6 @@
 // REST API архива. Чистые функции: получают разобранный запрос, отдают объект ответа.
 import * as db from './db.mjs';
-import { buildIndex, search, searchBrands } from './search.mjs';
+import { buildIndex, search, searchBrands } from '../public/search.js';
 
 const json = (body, status = 200) => ({ status, body, type: 'application/json' });
 // Код нужен клиенту, чтобы показать сообщение на языке интерфейса; message — для прямых вызовов API.
