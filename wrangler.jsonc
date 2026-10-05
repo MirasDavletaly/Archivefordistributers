@@ -1,0 +1,13 @@
+{
+  // Конфигурация для публикации демо-версии на Cloudflare.
+  // Воркер здесь без кода: Cloudflare просто отдаёт готовые файлы из docs/,
+  // которые собирает `node scripts/build-demo.mjs`.
+  //
+  // Публикация:   npx wrangler deploy
+  // Предпросмотр: npx wrangler versions upload
+  "name": "archive-demo",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./docs"
+  }
+}
