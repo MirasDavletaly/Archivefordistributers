@@ -1,0 +1,17 @@
+{
+  "name": "supplier-archive",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Архив поставщиков: дистрибьюторы, бренды и контакты с поиском",
+  "type": "module",
+  "engines": {
+    "node": ">=23.0.0"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "test": "node --test \"test/*.test.mjs\"",
+    "import": "node scripts/import-xlsx.mjs",
+    "reset-db": "node scripts/reset-db.mjs"
+  }
+}

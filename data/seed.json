@@ -1,0 +1,1324 @@
+{
+  "source": "Authorized Dealers & Distributors.xlsx",
+  "importedAt": "2026-10-05",
+  "entries": [
+    {
+      "name": "ABB",
+      "kind": "distributor",
+      "brands": [
+        "ABB",
+        "FURSE ABB"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "ruslan.imanbekov@kz.abb.com"
+        },
+        {
+          "name": "",
+          "email": "daniil.bushkov@kz.abb.com"
+        },
+        {
+          "name": "",
+          "email": "yermek.imashev@kz.abb.com"
+        }
+      ]
+    },
+    {
+      "name": "ALPROM",
+      "kind": "distributor",
+      "brands": [
+        "ABACUS",
+        "ABTECH",
+        "CEMP",
+        "CMP",
+        "COOPER CROUSE-HINDS UK LTD",
+        "CORRPRO",
+        "FLUKE",
+        "FURSE",
+        "LANCIER",
+        "PEPPERS",
+        "RAYCHEM",
+        "SAFT",
+        "TP ELECTRIC",
+        "UNISTRUT",
+        "VENTURE LIGHTING"
+      ],
+      "contacts": [
+        {
+          "name": "Okan Arslan",
+          "email": "okan@nako-kz.com"
+        },
+        {
+          "name": "",
+          "email": "rfq@alprom.kz"
+        }
+      ]
+    },
+    {
+      "name": "ANCON",
+      "kind": "distributor",
+      "brands": [
+        "KATIMEX"
+      ],
+      "contacts": [
+        {
+          "name": "Dmitriy, KAZAKOV [ANCON]",
+          "email": "cmd@ancon.kz"
+        }
+      ]
+    },
+    {
+      "name": "AMASC",
+      "kind": "distributor",
+      "brands": [
+        "ADVANTECH",
+        "DANFOSS",
+        "ICONICS",
+        "PHOENIX CONTACT",
+        "PROSOFT",
+        "RITTAL"
+      ],
+      "contacts": [
+        {
+          "name": "Nikita Fedotov",
+          "email": "nikita@amasc.kz"
+        }
+      ]
+    },
+    {
+      "name": "APPLE CITY",
+      "kind": "distributor",
+      "brands": [
+        "DURACELL"
+      ],
+      "contacts": [
+        {
+          "name": "Gaukhar Kospanova",
+          "email": "kospanova.g@applecity.kz"
+        }
+      ]
+    },
+    {
+      "name": "ATI DELIVERS",
+      "kind": "distributor",
+      "brands": [
+        "3M",
+        "FESTO",
+        "FLUKE",
+        "MOLEX",
+        "OMRON",
+        "RS COMPONENTS",
+        "RS PRO",
+        "SCHNEIDER ELECTRIC",
+        "SIEMENS",
+        "SKF",
+        "SMC"
+      ],
+      "contacts": [
+        {
+          "name": "Mariyam Zulharnain",
+          "email": "mzulharnain@atidelivers.com"
+        },
+        {
+          "name": "",
+          "email": "kz.sales@atidelivers.com"
+        }
+      ]
+    },
+    {
+      "name": "BEIERTON",
+      "kind": "distributor",
+      "brands": [
+        "DKC",
+        "DURAY",
+        "EAE ELECTRIK",
+        "LEDEFFECT",
+        "IEK",
+        "INDELEC",
+        "OBO BETTERMANN",
+        "OSTEC",
+        "ROSA",
+        "ZETA"
+      ],
+      "contacts": [
+        {
+          "name": "Mark Ilinykh",
+          "email": "m.ilinykh@beierton.kz"
+        }
+      ]
+    },
+    {
+      "name": "CENTERKIT",
+      "kind": "distributor",
+      "brands": [
+        "BEGHELLI",
+        "CABLES",
+        "OSRAM",
+        "PHILIPS",
+        "PARKER",
+        "RS",
+        "VANTRUNK"
+      ],
+      "contacts": [
+        {
+          "name": "Caterina Tassinari",
+          "email": "sales@centerkit.net"
+        }
+      ]
+    },
+    {
+      "name": "EGIDA",
+      "kind": "distributor",
+      "brands": [
+        "DELTA",
+        "SECURITON",
+        "SECURITY FORCE"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "g.zhunusbekova@egida.kz"
+        }
+      ]
+    },
+    {
+      "name": "EMDP",
+      "kind": "distributor",
+      "brands": [
+        "AEG",
+        "AMMETEK",
+        "CEMP",
+        "GE VERNOVA"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "emdpkz@emdp.kz"
+        },
+        {
+          "name": "",
+          "email": "info@emdp.kz"
+        }
+      ]
+    },
+    {
+      "name": "ENERGON",
+      "kind": "distributor",
+      "brands": [
+        "YUASA"
+      ],
+      "contacts": []
+    },
+    {
+      "name": "GE GRID SOLUTIONS",
+      "kind": "distributor",
+      "brands": [
+        "ALSTOM",
+        "AREVA",
+        "GE"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "aibek.dostiyarov@ge.com"
+        },
+        {
+          "name": "",
+          "email": "saltanat.khamit@ge.com"
+        }
+      ]
+    },
+    {
+      "name": "IBEMO",
+      "kind": "distributor",
+      "brands": [
+        "3M",
+        "ABACUS",
+        "ABB",
+        "ARMADA",
+        "BAKS",
+        "BELDEN",
+        "BETA",
+        "BRADY",
+        "CEG",
+        "CHALMIT",
+        "CHALMIT LIGHTING",
+        "CLEVELAND CALBEPRYSMIAN",
+        "COOPER CROUSE-HINDS UK LTD",
+        "DELTA DTM",
+        "DET-TRONICS",
+        "DKC",
+        "EATON",
+        "EATON-MOELLER (KLOCKNER MOELLER)",
+        "ELECTROTECHNIK",
+        "ENCORE THERMOENGINEERING",
+        "FORTISFLEX",
+        "FURSE ABB",
+        "GRAVOPLY",
+        "HAWKE",
+        "HAWKE CABLE GLAND LTD.",
+        "HELLERMANNTYTON",
+        "KAESER",
+        "KILLARK",
+        "MINIMAX",
+        "PENTAIR",
+        "PHOENIX CONTACT",
+        "PROTECTOWIRE",
+        "RAXTON",
+        "ROXTEC",
+        "RS COMPONENTS",
+        "RS COMPONENTS LTD.",
+        "RS PRO",
+        "RUBEZH",
+        "SHIP",
+        "SYR",
+        "TELEMECHANIQUE",
+        "TEST REPORT",
+        "TKUV 20/3",
+        "TOP CABLE",
+        "TRANSMAG",
+        "YSAKAWA",
+        "SOFIS"
+      ],
+      "contacts": [
+        {
+          "name": "Lajos Korpas",
+          "email": "lajos@ibemo-kz.com"
+        },
+        {
+          "name": "",
+          "email": "anelya@ibemo-kz.com"
+        },
+        {
+          "name": "",
+          "email": "aizada@ibemo-kz.com"
+        },
+        {
+          "name": "",
+          "email": "daniar@ibemo-kz.com"
+        },
+        {
+          "name": "",
+          "email": "artur@ibemo.de"
+        },
+        {
+          "name": "",
+          "email": "azamat@ibemo-kz.com"
+        }
+      ]
+    },
+    {
+      "name": "KCC",
+      "kind": "distributor",
+      "brands": [
+        "APC",
+        "LEGRAND",
+        "ITK",
+        "OBO BETTERMANN",
+        "RITTAL",
+        "YORK"
+      ],
+      "contacts": [
+        {
+          "name": "Evgeniya Krasnopoyas",
+          "email": "sc@kcc.kz"
+        }
+      ]
+    },
+    {
+      "name": "KISCO",
+      "kind": "distributor",
+      "brands": [
+        "3M",
+        "BARTEC",
+        "CEAG",
+        "CMP",
+        "EATON",
+        "HAWKE",
+        "GAITRONICS",
+        "GE",
+        "GLAMOX",
+        "LEGRAND",
+        "OMRON",
+        "PETREL",
+        "SWIFTS",
+        "VICTOR LIGHTING",
+        "WEIDMULLER",
+        "WOLF"
+      ],
+      "contacts": [
+        {
+          "name": "Galymzhan Amanzholov",
+          "email": "galymzhan.amanzholov@kisco.kz"
+        },
+        {
+          "name": "Assel Ospanova",
+          "email": "assel.ospanova@kisco.kz"
+        }
+      ]
+    },
+    {
+      "name": "MELCOM POLUS",
+      "kind": "distributor",
+      "brands": [
+        "SECURITON"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "aleksei.kovtunets@securiton.kz"
+        },
+        {
+          "name": "Еспенбетов Айдос",
+          "email": "sale@vesy.kz"
+        }
+      ]
+    },
+    {
+      "name": "MUSSAD",
+      "kind": "distributor",
+      "brands": [
+        "VOSSLOH-SCHWABE"
+      ],
+      "contacts": [
+        {
+          "name": "Azamat Mussayev",
+          "email": "mussad.company@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "PROMSTROYKONTRAKT JSC",
+      "kind": "distributor",
+      "brands": [
+        "ATLAS COPCO",
+        "BOOM MAKINA",
+        "GENIE",
+        "PALFINGER",
+        "PUTZMEISTER",
+        "SANY"
+      ],
+      "contacts": [
+        {
+          "name": "Vladislav Karpunin",
+          "email": "v.karpunin@psk-k.kz"
+        }
+      ]
+    },
+    {
+      "name": "PTS",
+      "kind": "distributor",
+      "brands": [
+        "ALLEN BRADLEY",
+        "CAPRI",
+        "CEAG",
+        "COOPER CROUSE-HINDS UK LTD",
+        "CUTLER-HUMMER",
+        "EATON",
+        "ENDRESS-HAUSER",
+        "FACTORYTALK",
+        "FLUKE",
+        "LEGRAND",
+        "MEDC",
+        "MOELLER",
+        "PEPPERL+FUCHS ELCON SRL",
+        "POWERFLEX",
+        "RAXTON",
+        "REDAPT LTD.",
+        "YOKOGAWA ELECTRIC"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "vardan.bogosyan@ptskz.com"
+        },
+        {
+          "name": "",
+          "email": "sergey.boldyrev@ptskz.com"
+        },
+        {
+          "name": "",
+          "email": "lidiya.kuan@ptskz.com"
+        },
+        {
+          "name": "",
+          "email": "irina.golovanova@ptskz.com"
+        }
+      ]
+    },
+    {
+      "name": "RAZIONAL",
+      "kind": "distributor",
+      "brands": [
+        "WEISHAUPT"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "sergey.milishihin@razional.ru"
+        }
+      ]
+    },
+    {
+      "name": "RM ELECTRICAL",
+      "kind": "distributor",
+      "brands": [
+        "ABACUS",
+        "ABTECH",
+        "BORRI",
+        "BTC",
+        "CHALMIT LIGHTING",
+        "CMP",
+        "DISANO",
+        "FLEI",
+        "GALMAR",
+        "GLAMOX",
+        "HAWKE",
+        "LAMPCO UK",
+        "LEGRAND",
+        "MTL",
+        "PARTEX",
+        "PEPPER CABLE GLANDS LTD.",
+        "PETREL",
+        "PHOENIX",
+        "PHOENIX CONTACT",
+        "WEIDMULLER"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "anara.sarmanova@rm-electrical.com"
+        },
+        {
+          "name": "",
+          "email": "aneta.klemarczyk@rm-electrical.com"
+        },
+        {
+          "name": "",
+          "email": "mark.rood@rm-electrical.com"
+        }
+      ]
+    },
+    {
+      "name": "SIGMA SOLUTIONS",
+      "kind": "distributor",
+      "brands": [
+        "BARTEC",
+        "BIRTAS",
+        "CMP",
+        "FURSE",
+        "KINGSMILL",
+        "LAPP GROUP",
+        "LEGRAND",
+        "MERLINGERIN (SCHEIDER ELECTRIC)",
+        "MEDC",
+        "PRYSMIAN",
+        "PRYSMIAN / NEXANS",
+        "SCHNEID",
+        "SCHNEIDER ELECTRIC",
+        "SIGMA INDUSTRIES",
+        "UNISTRUT",
+        "VANTRUNK",
+        "WALLIS",
+        "WEIDMULLER"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "angelina.polgova@sigmasolutions.kz"
+        }
+      ]
+    },
+    {
+      "name": "SOLID SUPPLY SOLUTIONS",
+      "kind": "distributor",
+      "brands": [
+        "ALLEN BRADLEY",
+        "FIAMM",
+        "FIBERTRONICS",
+        "TRILLIUM"
+      ],
+      "contacts": [
+        {
+          "name": "Dana Khairova",
+          "email": "sales@sssolutions.kz"
+        }
+      ]
+    },
+    {
+      "name": "SOURCE UPS",
+      "kind": "distributor",
+      "brands": [
+        "APC",
+        "EATON",
+        "RIELLO UPS",
+        "KOHLER SDMO",
+        "TRIPP LITE",
+        "UNIFLAIR",
+        "VERTIV",
+        "YUASA"
+      ],
+      "contacts": [
+        {
+          "name": "Gavin Banks",
+          "email": "gavin@sourceups.co.uk"
+        }
+      ]
+    },
+    {
+      "name": "STAHL",
+      "kind": "distributor",
+      "brands": [
+        "ELECTROMACH",
+        "STAHL",
+        "TRANSBERG"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "asylbek.umbetaliyev@gmail.com"
+        },
+        {
+          "name": "",
+          "email": "rstahlkz.support@rstahl.group"
+        }
+      ]
+    },
+    {
+      "name": "TIEN SHAN",
+      "kind": "distributor",
+      "brands": [
+        "ROTORK"
+      ],
+      "contacts": [
+        {
+          "name": "Sabina Kuzybayeva",
+          "email": "skuzybayeva@t-sh-e.com"
+        },
+        {
+          "name": "",
+          "email": "tnabiullin@t-sh-e.com"
+        }
+      ]
+    },
+    {
+      "name": "TURBO-DIESEL KZ",
+      "kind": "distributor",
+      "brands": [
+        "BORGWARNER",
+        "DELPHI",
+        "HARTRIDGE",
+        "REDAT",
+        "SEPAR FILTER"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "vladimir.obolonkin@turbo-diesel.kz"
+        }
+      ]
+    },
+    {
+      "name": "INDUSTRY TECH STORE",
+      "kind": "distributor",
+      "brands": [
+        "HONEYWELL",
+        "TYCO"
+      ],
+      "contacts": [
+        {
+          "name": "Info Industrytechstore",
+          "email": "info@industrytechstore.com"
+        }
+      ]
+    },
+    {
+      "name": "LSS",
+      "kind": "distributor",
+      "brands": [
+        "DWK",
+        "HACK",
+        "HANNA",
+        "MERCK",
+        "SIGMA-ALDRICH",
+        "WENK"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "faraz@lab-suppliers.com"
+        },
+        {
+          "name": "",
+          "email": "basharat@lab-suppliers.com"
+        },
+        {
+          "name": "",
+          "email": "greeshma@lab-suppliers.com"
+        }
+      ]
+    },
+    {
+      "name": "AVANTOR",
+      "kind": "distributor",
+      "brands": [
+        "VWR",
+        "THERMO SCIENTIFIC"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "marin.mereuta@avantorsciences.com"
+        },
+        {
+          "name": "",
+          "email": "ivana.bandzejova@avantorsciences.com"
+        },
+        {
+          "name": "",
+          "email": "liliya.bak@avantorsciences.com"
+        },
+        {
+          "name": "Ainur Yessetova",
+          "email": "ainur.yessetova@topan.kz"
+        }
+      ]
+    },
+    {
+      "name": "ANALYTICHEM",
+      "kind": "distributor",
+      "brands": [
+        "ANALYTICHEM",
+        "CONOSTAN"
+      ],
+      "contacts": [
+        {
+          "name": "Sales NA",
+          "email": "salesna@analytichem.com"
+        },
+        {
+          "name": "Elzhan Mukhtarov",
+          "email": "emt@talmay.kz"
+        }
+      ]
+    },
+    {
+      "name": "PROLAB SUPPORTS",
+      "kind": "distributor",
+      "brands": [
+        "AGILENT",
+        "METROHM"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "daniyar.o@prolabsupport.kz"
+        }
+      ]
+    },
+    {
+      "name": "LABHIMPROM",
+      "kind": "distributor",
+      "brands": [
+        "HONEYWELL RESEARCH CHEMICALS",
+        "KNF",
+        "SIGMA-ALDRICH",
+        "VITLAB"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "labhimprom@mail.ru"
+        }
+      ]
+    },
+    {
+      "name": "MSTM KZ",
+      "kind": "distributor",
+      "brands": [
+        "SAMSON"
+      ],
+      "contacts": [
+        {
+          "name": "Алёна Купфер",
+          "email": "a.kupfer@mstm.kz"
+        }
+      ]
+    },
+    {
+      "name": "WESTMINSTER",
+      "kind": "distributor",
+      "brands": [
+        "FINDER"
+      ],
+      "contacts": [
+        {
+          "name": "Сергей Слипченко",
+          "email": "westminster3001973@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "FORES ENGINEERING",
+      "kind": "distributor",
+      "brands": [
+        "ELECTRICAL MATERIALS",
+        "MECHANICAL MATERIALS"
+      ],
+      "contacts": [
+        {
+          "name": "Service",
+          "email": "service@fores.it"
+        },
+        {
+          "name": "Forconi Maurizio",
+          "email": "maurizio.forconi@fores.it"
+        }
+      ]
+    },
+    {
+      "name": "AMITEX",
+      "kind": "distributor",
+      "brands": [
+        "ALDERLEY",
+        "GALPERTI",
+        "KOCK-GLITSH",
+        "OMAL AUTOMATION",
+        "SEVERN",
+        "3X ENGINEERING"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "info@amitex.kz"
+        }
+      ]
+    },
+    {
+      "name": "INTEKNO",
+      "kind": "distributor",
+      "brands": [
+        "HENKEL"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "sales1@intekno.kz"
+        },
+        {
+          "name": "",
+          "email": "sales6@intekno.kz"
+        },
+        {
+          "name": "",
+          "email": "sales3@intekno.kz"
+        },
+        {
+          "name": "",
+          "email": "dyesbergenov@intekno.kz"
+        }
+      ]
+    },
+    {
+      "name": "ABACUS",
+      "kind": "direct",
+      "brands": [
+        "ABACUS"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "jmccrum@abacuslighting.com"
+        }
+      ]
+    },
+    {
+      "name": "ALAGEUM ELECTRIC",
+      "kind": "direct",
+      "brands": [
+        "ALAGEUM ELECTRIC"
+      ],
+      "contacts": [
+        {
+          "name": "Темирлан Женис",
+          "email": "t.zhenis@alageum.com"
+        }
+      ]
+    },
+    {
+      "name": "ALCAD",
+      "kind": "direct",
+      "brands": [
+        "ALCAD"
+      ],
+      "contacts": [
+        {
+          "name": "Anngelica Slattas",
+          "email": "slattas.anngelica@alcad.com"
+        }
+      ]
+    },
+    {
+      "name": "BOLTS, NUTS & WASHERS",
+      "kind": "direct",
+      "brands": [
+        "BOLTS, NUTS & WASHERS"
+      ],
+      "contacts": [
+        {
+          "name": "Devika BBI",
+          "email": "sc03@baselinebolt.com"
+        }
+      ]
+    },
+    {
+      "name": "BYTRONIC",
+      "kind": "direct",
+      "brands": [
+        "BYTRONIC"
+      ],
+      "contacts": [
+        {
+          "name": "Simona Zanzottera",
+          "email": "bytronic@bytronic.it"
+        }
+      ]
+    },
+    {
+      "name": "CABUR",
+      "kind": "direct",
+      "brands": [
+        "CABUR"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "linda.veronelli@cabur.it"
+        }
+      ]
+    },
+    {
+      "name": "CHALMIT",
+      "kind": "direct",
+      "brands": [
+        "CHALMIT",
+        "CHALMIT LIGHTING",
+        "GAI-TRONICS",
+        "HAWKE",
+        "HUBBELL"
+      ],
+      "contacts": [
+        {
+          "name": "Grant Stott",
+          "email": "gstott@hubbell.com"
+        }
+      ]
+    },
+    {
+      "name": "CORRPRO",
+      "kind": "direct",
+      "brands": [
+        "CORRPRO"
+      ],
+      "contacts": [
+        {
+          "name": "Ethan Campbell",
+          "email": "ecampbell@corrproeurope.com"
+        }
+      ]
+    },
+    {
+      "name": "CORTEM",
+      "kind": "direct",
+      "brands": [
+        "CORTEM"
+      ],
+      "contacts": [
+        {
+          "name": "Antonello Scaburri",
+          "email": "a.scaburri@cortemgroup.com"
+        },
+        {
+          "name": "Stefania Patrini",
+          "email": "s.patrini@cortemgroup.com"
+        }
+      ]
+    },
+    {
+      "name": "CROUZET",
+      "kind": "direct",
+      "brands": [
+        "CROUZET"
+      ],
+      "contacts": [
+        {
+          "name": "Yakir Zukerman",
+          "email": "yakir@eid.co.il"
+        }
+      ]
+    },
+    {
+      "name": "DOSSENA",
+      "kind": "direct",
+      "brands": [
+        "DOSSENA"
+      ],
+      "contacts": [
+        {
+          "name": "Marco Passerini",
+          "email": "export@dossena.it"
+        }
+      ]
+    },
+    {
+      "name": "EMERSON",
+      "kind": "direct",
+      "brands": [
+        "EMERSON"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "brando.villani@emerson.com"
+        },
+        {
+          "name": "",
+          "email": "cosimo.pisano@emerson.com"
+        },
+        {
+          "name": "",
+          "email": "marco.monti@emerson.com"
+        },
+        {
+          "name": "",
+          "email": "natalia.bagramian@emerson.com"
+        },
+        {
+          "name": "",
+          "email": "sabit.koblanov@emerson.com"
+        }
+      ]
+    },
+    {
+      "name": "EX HEAT INDUSTRIAL",
+      "kind": "direct",
+      "brands": [
+        "EX HEAT INDUSTRIAL",
+        "EX HEAT"
+      ],
+      "contacts": [
+        {
+          "name": "Iskander K",
+          "email": "info@relianceoil.kz"
+        }
+      ]
+    },
+    {
+      "name": "FASE",
+      "kind": "direct",
+      "brands": [
+        "FASE"
+      ],
+      "contacts": [
+        {
+          "name": "Alessandra Di Gennaro",
+          "email": "commerciale@fase.it"
+        }
+      ]
+    },
+    {
+      "name": "FLANGES & FITTINGS",
+      "kind": "direct",
+      "brands": [
+        "FLANGES & FITTINGS"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "wallance.wang@wmspiping.com"
+        },
+        {
+          "name": "",
+          "email": "sales@nascentfit.com"
+        }
+      ]
+    },
+    {
+      "name": "LAPP",
+      "kind": "direct",
+      "brands": [
+        "LAPP"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "rsaldy.alkhatova@lapp.com"
+        }
+      ]
+    },
+    {
+      "name": "LEGRAND",
+      "kind": "direct",
+      "brands": [
+        "LEGRAND",
+        "REXEL"
+      ],
+      "contacts": [
+        {
+          "name": "Andy",
+          "email": "britsource@rexel.co.uk"
+        }
+      ]
+    },
+    {
+      "name": "KEAZ",
+      "kind": "direct",
+      "brands": [
+        "KEAZ"
+      ],
+      "contacts": [
+        {
+          "name": "Муратов Али",
+          "email": "corp2@220volt.kz"
+        },
+        {
+          "name": "Мухатаев Ержан",
+          "email": "220volt@220volt.kz"
+        }
+      ]
+    },
+    {
+      "name": "O'BRIEN",
+      "kind": "direct",
+      "brands": [
+        "O'BRIEN"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "ana.jovanovic@ametek.com"
+        }
+      ]
+    },
+    {
+      "name": "OMRON",
+      "kind": "direct",
+      "brands": [
+        "OMRON"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "ab@inteng.kz"
+        }
+      ]
+    },
+    {
+      "name": "OSRAM",
+      "kind": "direct",
+      "brands": [
+        "OSRAM"
+      ],
+      "contacts": [
+        {
+          "name": "Вероника Кюне",
+          "email": "nika-elcor@mail.ru"
+        },
+        {
+          "name": "Savchenko Vitaly",
+          "email": "v.savchenko@ledvance.ru"
+        }
+      ]
+    },
+    {
+      "name": "QHPL",
+      "kind": "direct",
+      "brands": [
+        "QHPL"
+      ],
+      "contacts": [
+        {
+          "name": "Tom Brownlee",
+          "email": "tomb@qhp.co.uk"
+        }
+      ]
+    },
+    {
+      "name": "PARKER",
+      "kind": "direct",
+      "brands": [
+        "PARKER"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "d.abdr@igateway.ltd"
+        },
+        {
+          "name": "",
+          "email": "g.umir@igateway.ltd"
+        }
+      ]
+    },
+    {
+      "name": "RAYCHEM",
+      "kind": "direct",
+      "brands": [
+        "RAYCHEM"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "dmitry.kotkov@nvent.com"
+        }
+      ]
+    },
+    {
+      "name": "SCHUCH",
+      "kind": "direct",
+      "brands": [
+        "SCHUCH"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "anja.schlicksupp@schuch.de"
+        }
+      ]
+    },
+    {
+      "name": "TECSYSTEM",
+      "kind": "direct",
+      "brands": [
+        "TECSYSTEM"
+      ],
+      "contacts": [
+        {
+          "name": "Dmitrii Eshevskii",
+          "email": "tecsystemrus@mail.ru"
+        },
+        {
+          "name": "",
+          "email": "perazzoli@tecsystem.it"
+        }
+      ]
+    },
+    {
+      "name": "TRANSFORMER",
+      "kind": "direct",
+      "brands": [
+        "TRANSFORMER"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "office@etalon-group.kz"
+        }
+      ]
+    },
+    {
+      "name": "TRIDONIC",
+      "kind": "direct",
+      "brands": [
+        "TRIDONIC"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "jasmin@elkosun.com"
+        },
+        {
+          "name": "",
+          "email": "orders@elkosun.com"
+        }
+      ]
+    },
+    {
+      "name": "VEGA INDUSTRIES",
+      "kind": "direct",
+      "brands": [
+        "VEGA INDUSTRIES"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "info@ekvd.kz"
+        }
+      ]
+    },
+    {
+      "name": "VENTURE LIGHTING",
+      "kind": "direct",
+      "brands": [
+        "VENTURE LIGHTING"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "marketing@vlindia.com"
+        }
+      ]
+    },
+    {
+      "name": "WEIR",
+      "kind": "direct",
+      "brands": [
+        "WEIR"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "emmanuel.caboche@trilliumflow.com"
+        },
+        {
+          "name": "",
+          "email": "david.alexandre@trilliumflow.com"
+        }
+      ]
+    },
+    {
+      "name": "PIBIVIESSE VALVES",
+      "kind": "direct",
+      "brands": [
+        "PIBIVIESSE VALVES"
+      ],
+      "contacts": [
+        {
+          "name": "",
+          "email": "alessia.matera@givavalves.com"
+        }
+      ]
+    },
+    {
+      "name": "SLB VALVES",
+      "kind": "direct",
+      "brands": [
+        "SLB VALVES"
+      ],
+      "contacts": [
+        {
+          "name": "Igor Pak",
+          "email": "ipak@slb.com"
+        },
+        {
+          "name": "Almat Zhargassov",
+          "email": "azhargassov@slb.com"
+        }
+      ]
+    },
+    {
+      "name": "VATAC VALVES",
+      "kind": "direct",
+      "brands": [
+        "VATAC VALVES"
+      ],
+      "contacts": [
+        {
+          "name": "Emily Ye",
+          "email": "s013@cnvchina.com"
+        }
+      ]
+    }
+  ]
+}
